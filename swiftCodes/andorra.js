@@ -1,4 +1,4 @@
-const andorra = [
+export const andorra = [
   {
     "bankCode": "BACA",
     "countryCode": "AD",

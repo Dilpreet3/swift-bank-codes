@@ -1,4 +1,4 @@
-const angola = [
+export const angola = [
   {
     "bankCode": "BAIP",
     "countryCode": "AO",

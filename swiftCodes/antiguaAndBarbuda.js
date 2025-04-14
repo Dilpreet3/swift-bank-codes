@@ -1,4 +1,4 @@
-const antiguaAndBarbuda = [
+export const antiguaAndBarbuda = [
   {
     "bankCode": "ANCB",
     "countryCode": "AG",

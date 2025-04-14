@@ -1,4 +1,4 @@
-const anguilla = [
+export const anguilla = [
   {
     "bankCode": "ANGU",
     "countryCode": "AI",

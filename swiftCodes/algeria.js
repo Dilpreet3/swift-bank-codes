@@ -1,4 +1,4 @@
-const algeria = [
+export const algeria = [
   {
     "bankCode": "BEXA",
     "countryCode": "DZ",

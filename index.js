@@ -1,4 +1,4 @@
-const countries = [
+export const countries = [
   'albania', 'algeria', 'andorra', 'angola', 'anguilla', 'antiguaAndBarbuda', 'argentina', 'armenia', 'aruba', 'australia', 
   'austria', 'azerbaijan', 'bahamas', 'bahrain', 'bangladesh', 'barbados', 'belgium', 'belize', 'benin', 'bermuda', 'bhutan', 
   'bolivia', 'bonaire', 'bosniaAndHerzegovina', 'botswana', 'brazil', 'brunei', 'bulgaria', 'burkinaFaso', 'cambodia', 'cameroon', 
